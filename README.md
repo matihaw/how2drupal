@@ -1,2 +1,1 @@
-# how2drupal
-Drupal learning blog base on drupal :)
+# sobie-koduje.pl
